@@ -6,7 +6,7 @@
 Hacker News
 ======================================
 .. toctree::
-  :maxdepth: 0
+  :maxdepth: 3
   
   简介
   1. 10x程序员秘籍分享
