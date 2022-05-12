@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Docker教程
+Hacker News
 ======================================
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 0
   
   简介
   1. 10x程序员秘籍分享
