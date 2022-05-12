@@ -7,7 +7,7 @@ Welcome to 思谋攻城中心知乎专栏!
 ======================================
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
   :glob:
   :caption: Contents:
   
